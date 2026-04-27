@@ -6,6 +6,8 @@
 
 ---
 
+![图片](./images/01.png)
+
 — Program Selection —
 
 **文理学院**
@@ -23,6 +25,8 @@
 选专业操作流程
 
 **Step 1 进入solus选专业页面**
+
+![图片](./images/04.jpg)
 
 - 首先呢，我们先要确认心仪的专业！如果有还没想好的宝贝可以看看咱们GPS之前出过的每个专业的详细介绍噢~
 - 登陆自己的**solus系统**，在**Academic Records****页面中**选择**Program/Plan Selection**。
@@ -61,13 +65,19 @@ Major可以修60学分，Minor修30-48学分和选修课18-30
 
 选择两个感兴趣的专业（仅限art）每个修42学分，和36学分的选修课
 
+![图片](./images/07.png)
+
 每个专业的degree plan可以访问学校官网的2022-2023 academic calendar了解具体的课程要求
 
 https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/
 
+![图片](./images/08.jpg)
+
 以及查看自己是否满足进入一个专业的要求，可以在这个页面看到（点击“What it takes to be accepted to a Plan“，就可以看到每个专业的进专业要求啦！）：
 
 https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
+
+![图片](./images/09.png)
 
 以上就是所有选择专业的干货内容啦，希望大家可以选到心仪的专业哦！如果还有任何疑问，欢迎在GPS新生群里或者找小助手提出自己的疑问哦，群里的学长学姐们会尽量第一时间回复你哒~
 
@@ -80,5 +90,7 @@ https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
 编辑 | Eric
 
 审核 | Taniya Kyle
+
+![图片](./images/11.png)
 
 ![图片](./images/12.jpg)\*如有合作意愿，请联系微信：gpsxiaozhushou![图片](./images/13.jpg)
