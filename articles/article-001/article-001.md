@@ -2,11 +2,9 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/ZImifnQaN4ObxGMjUA4FQw  
-> 备注：自动搬运，暂未分类。已过滤小装饰图，保留正文文字和主要图片。图片 OCR 文字仅供参考，需要人工检查。
+> 备注：自动搬运，暂未分类。已过滤装饰图，保留正文文字和主要图片。图片 OCR 文字仅供参考，需要人工检查。
 
 ---
-
-![图片](./images/01.png)
 
 — Program Selection —
 
@@ -16,15 +14,11 @@
 
 **GPS 干货**
 
-![图片](./images/02.png)
-
 **选 专 业 啦 ！！！**
 
 即将要进入大二的**Arts and Sciences**的同学们请注意！又到了一年一度选专业的时候了！你还在纠结吗？或是已经有心仪的专业了呢？今年的选专业通道将在**2023 年 5 月 23 日至 6 月 2 日在 SOLUS 上开放**！在solus页面经历大更新后，熊猫酱在这里为你送上全新的如何选择以及操作的干货！
 
 所有成绩都会陆续在**5月中旬之前**出来！大家可以在solus上面查看，并且衡量自己能不能进心仪的专业~**所有完成 24 个或更多单元的学生必须参与课程/计划选择过程。这涉及选择大家希望追求的学习领域（计划）。**
-
-![图片](./images/03.png)
 
 选专业操作流程
 
@@ -42,16 +36,12 @@
 
 **Step 3 查看是否成功选择了专业**
 
-![图片](./images/05.jpg)
-
 - 如果你达到了**所选专业的前置条件，你将直接自动注册进所选专业**，并且可以在Academic Records页面中选择**View my current program**页面**，**查看自己的专业信息。
 
 **Step 4 如果进入了Pending list**
 
 - 如果**没有完全符合前置条件**，在solus上会收到消息，并告诉你已被列入待定名单，**这意味着你的的专业申请将在申请期后由专业内老师手动审查**，一旦专业内做出决定，你将收到一封电子邮件并告诉你专业申请的审查结果。除此之外solus还将通知你**必须选择一个你符合前置条件的备选专业。**
 - PS：人工审查将在**6月16日**之前通知你结果
-
-![图片](./images/06.png)
 
 Tip 1：Degree Plan
 
@@ -73,25 +63,17 @@ Major可以修60学分，Minor修30-48学分和选修课18-30
 
 选择两个感兴趣的专业（仅限art）每个修42学分，和36学分的选修课
 
-![图片](./images/07.png)
-
 每个专业的degree plan可以访问学校官网的2022-2023 academic calendar了解具体的课程要求
 
 https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/
-
-![图片](./images/08.jpg)
 
 以及查看自己是否满足进入一个专业的要求，可以在这个页面看到（点击“What it takes to be accepted to a Plan“，就可以看到每个专业的进专业要求啦！）：
 
 https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
 
-![图片](./images/09.png)
-
 以上就是所有选择专业的干货内容啦，希望大家可以选到心仪的专业哦！如果还有任何疑问，欢迎在GPS新生群里或者找小助手提出自己的疑问哦，群里的学长学姐们会尽量第一时间回复你哒~
 
 **【END】**
-
-![图片](./images/10.png)
 
 文字 | Eric
 
@@ -100,7 +82,5 @@ https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
 编辑 | Eric
 
 审核 | Taniya Kyle
-
-![图片](./images/11.png)
 
 ![图片](./images/12.jpg)\*如有合作意愿，请联系微信：gpsxiaozhushou![图片](./images/13.jpg)
