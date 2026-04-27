@@ -24,8 +24,6 @@
 
 **Step 1 进入solus选专业页面**
 
-![图片](./images/04.jpg)
-
 - 首先呢，我们先要确认心仪的专业！如果有还没想好的宝贝可以看看咱们GPS之前出过的每个专业的详细介绍噢~
 - 登陆自己的**solus系统**，在**Academic Records****页面中**选择**Program/Plan Selection**。
 
