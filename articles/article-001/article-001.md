@@ -6,8 +6,19 @@
 
 ---
 
+## 原文视觉排版截图
+
+下面这张长图用于保留公众号原本的视觉排版，包括拼图式图片布局。
+
+![原文排版截图](./article-full.png)
+
+---
+
+## Markdown 可搜索文字版
+
+下面是从公众号文章中提取出来的 Markdown 版本，方便后续搜索、分类和编辑。
+
 ![image-01](./images/01.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 — Program Selection —
 
@@ -18,7 +29,6 @@
 **GPS 干货**
 
 ![image-02](./images/02.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 **选 专 业 啦 ！！！**
 
@@ -27,14 +37,12 @@
 所有成绩都会陆续在**5月中旬之前**出来！大家可以在solus上面查看，并且衡量自己能不能进心仪的专业~**所有完成 24 个或更多单元的学生必须参与课程/计划选择过程。这涉及选择大家希望追求的学习领域（计划）。**
 
 ![image-03](./images/03.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 选专业操作流程
 
 **Step 1 进入solus选专业页面**
 
 ![image-04](./images/04.jpg)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 - 首先呢，我们先要确认心仪的专业！如果有还没想好的宝贝可以看看咱们GPS之前出过的每个专业的详细介绍噢~
 - 登陆自己的**solus系统**，在**Academic Records****页面中**选择**Program/Plan Selection**。
@@ -47,7 +55,6 @@
 **Step 3 查看是否成功选择了专业**
 
 ![image-05](./images/05.jpg)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 - 如果你达到了**所选专业的前置条件，你将直接自动注册进所选专业**，并且可以在Academic Records页面中选择**View my current program**页面**，**查看自己的专业信息。
 
@@ -57,7 +64,6 @@
 - PS：人工审查将在**6月16日**之前通知你结果
 
 ![image-06](./images/06.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 Tip 1：Degree Plan
 
@@ -80,28 +86,24 @@ Major可以修60学分，Minor修30-48学分和选修课18-30
 选择两个感兴趣的专业（仅限art）每个修42学分，和36学分的选修课
 
 ![image-07](./images/07.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 每个专业的degree plan可以访问学校官网的2022-2023 academic calendar了解具体的课程要求
 
 https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/
 
 ![image-08](./images/08.jpg)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 以及查看自己是否满足进入一个专业的要求，可以在这个页面看到（点击“What it takes to be accepted to a Plan“，就可以看到每个专业的进专业要求啦！）：
 
 https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
 
 ![image-09](./images/09.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 以上就是所有选择专业的干货内容啦，希望大家可以选到心仪的专业哦！如果还有任何疑问，欢迎在GPS新生群里或者找小助手提出自己的疑问哦，群里的学长学姐们会尽量第一时间回复你哒~
 
 **【END】**
 
 ![image-10](./images/10.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
 文字 | Eric
 
@@ -112,10 +114,5 @@ https://www.queensu.ca/artsci/undergraduate/first-year-students/plan-selection
 审核 | Taniya Kyle
 
 ![image-11](./images/11.png)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
 
-![image-12](./images/12.jpg)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
-
-\*如有合作意愿，请联系微信：gpsxiaozhushou![image-13](./images/13.jpg)
-> 【图片文字待补充区域】如果这张图片里有无法复制的文字，请在这里人工补充。
+![image-12](./images/12.jpg)\*如有合作意愿，请联系微信：gpsxiaozhushou![image-13](./images/13.jpg)
