@@ -1,0 +1,11 @@
+{
+  "name": "gps-article-library",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-site.mjs"
+  },
+  "devDependencies": {
+    "marked": "^17.0.5"
+  }
+}

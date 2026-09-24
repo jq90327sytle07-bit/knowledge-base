@@ -1,0 +1,67 @@
+/* Queen's GPS brand colours, based on the supplied site and CMS references. */
+:root {
+  --ink:#32282b;
+  --muted:#756d6b;
+  --purple:#8c1c24;
+  --purple-light:#a3363d;
+  --cream:#fffaf5;
+  --paper:#fffefd;
+  --mint:#f4e2c7;
+  --mint-deep:#ad7743;
+  --line:#ebded3;
+  --pink:#f6e3dd;
+  --shadow:0 16px 48px rgba(86,33,28,.075);
+}
+
+.brand { font-family:Georgia,"Times New Roman",serif;letter-spacing:-.045em;font-size:22px; }
+.brand small { font-family:Inter,"Noto Sans CJK SC","Microsoft YaHei",system-ui,sans-serif;font-size:13px;letter-spacing:.04em; }
+.brand-symbol { width:38px;height:38px;object-fit:cover;border-radius:50%;background:white;border:1px solid #e7cba9; }
+.site-nav a[aria-current] { text-decoration-color:var(--mint-deep); }
+.directory-intro { padding:42px clamp(20px,7vw,112px) 35px;background:var(--paper);border-bottom:1px solid var(--line); }
+.directory-intro h1 { margin:0;color:var(--purple);font-size:clamp(30px,3vw,42px);letter-spacing:-.045em; }
+.directory-intro>p { margin:9px 0 27px;color:var(--muted);font-size:14px; }
+.directory-intro .search-wrap { margin:0; }
+.directory-intro .search-box { height:52px; }
+.categories-section { padding-top:34px;padding-bottom:45px; }
+.categories-section h2,.archive-section h2 { margin:0 0 18px;color:var(--purple);font-size:22px;letter-spacing:-.035em; }
+.category-tile { min-height:125px;padding:17px; }
+.category-tile strong { font-size:19px; }
+.category-tile:nth-child(2) { background:#fbebea; }
+.category-tile:nth-child(4) { background:#fbf1e3; }
+.category-tile:hover,.article-card:hover { border-color:#d2a7a5; }
+.archive-section { padding-top:36px;background:#f8f0e9; }
+.archive-section .article-card { min-height:255px; }
+.search-active .categories-section { display:none; }
+.search-active .archive-section { padding-top:34px; }
+.search-box { border-color:#e3d3c8; }
+.search-box:focus-within { outline-color:#d8a49d; }
+.card-category { background:#faede6; }
+.category-sidebar a[aria-current] { background:#f5e1d7; }
+.category-sidebar a:hover:not([aria-current]) { background:#fbede6; }
+.archive-note { background:#fcf2e7;border-color:var(--mint-deep);color:#756048; }
+.archive-note strong { color:#7e342e; }
+.prose a { color:#9b2931; }
+.prose blockquote { background:#fff4eb;border-color:var(--mint-deep); }
+.prose th { background:#f9ebe5; }
+.prose pre { background:#44262a; }
+.article-toc a:hover { border-color:var(--mint-deep); }
+.category-hero { padding-top:32px;padding-bottom:38px; }
+.category-hero:after { display:none; }
+.category-hero .back-link { margin-bottom:18px;color:#f2dcd9; }
+.category-hero .eyebrow { color:#f1d4a8; }
+.category-hero h1 { font-size:clamp(30px,4vw,44px);margin:8px 0; }
+.category-hero p:last-child { color:#f2dcda; }
+
+/* Articles without a contents sidebar still get the full reading column. */
+.article-layout>.prose:only-child { grid-column:1/-1;width:min(760px,100%);justify-self:center; }
+
+@media(max-width:760px) {
+  .brand { font-size:20px; }
+  .brand-symbol { width:34px;height:34px; }
+  .directory-intro { padding:32px 20px 25px; }
+  .directory-intro>p { margin-bottom:22px; }
+  .categories-section { padding-top:30px;padding-bottom:35px; }
+  .category-tile { min-height:120px; }
+  .archive-section { padding-top:32px; }
+  .category-hero { padding-top:27px;padding-bottom:32px; }
+}
