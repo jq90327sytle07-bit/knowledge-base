@@ -2,30 +2,11 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/IF8iKoKz0xztyz53JoVvBA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：22  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：9 张
 
 ---
 
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-前
-
-言
+## 前言
 
 每年8月底，那令人紧张而又刺激的选课季即将拉开帷幕。提前做好准备，像迎接一场挑战般，方能在最后的关键时刻选到心仪的课程和教授！
 
@@ -33,25 +14,9 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 本篇主要介绍Commerce的几位美丽的**女性教授**，帅气的**男性教授**则会放在熊猫酱的**下一篇推文**中哦~
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
 **Nailin Bu**
 
-【IMAGE-003 START】
-
 ![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
 
 COMM173 Intro. to International Business
 
@@ -61,17 +26,7 @@ Nailin Bu 是**一位国际贸易方面的教授**；她和Susan Bartholomew共�
 
 **Nicole Berube**
 
-【IMAGE-005 START】
-
 ![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
 
 COMM181 Intro. to Human Resources Mgmt
 
@@ -81,17 +36,7 @@ Nicole Berube 是一位专注于**人力资源领域的教授**，除了之前�
 
 **Susan Bartholomew**
 
-【IMAGE-007 START】
-
 ![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 COMM173 Intro. to International Business
 
@@ -101,17 +46,7 @@ Susan Bartholomew 是另一位**国际贸易的教授**，负责COMM173下半学
 
 **Christine Coulter**
 
-【IMAGE-009 START】
-
 ![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
 
 COMM181 Intro. to Human Resources Mgmt
 
@@ -123,17 +58,7 @@ Christine Coulter是一位非常和蔼的**人力资源管理相关教授**。�
 
 **Olena Ivus**
 
-【IMAGE-011 START】
-
 ![image-011](./images/image-011.png)
-
-【IMAGE-011 END】
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
 
 (COMM172 Managerial Econ)
 
@@ -143,17 +68,7 @@ Olena Ivus **主要教授低年级COMM的Econ课程**。她会细致地帮学生
 
 **Yulia Nevskaya**
 
-【IMAGE-013 START】
-
 ![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.png)
-
-【IMAGE-014 END】
 
 COMM432 Brand Management
 
@@ -161,17 +76,7 @@ Yulia Nevshaya**非常注重课堂表现**：participation占总分的20%。Nevs
 
 **Nicole Robitaille**
 
-【IMAGE-015 START】
-
 ![image-015](./images/image-015.png)
-
-【IMAGE-015 END】
-
-【IMAGE-016 START】
-
-![image-016](./images/image-016.png)
-
-【IMAGE-016 END】
 
 COMM131 Intro. to Marketing
 
@@ -179,17 +84,7 @@ Nicole Robitaille的授课方式**非常适合激发一年级学生对市场营�
 
 **Tandy Thomas**
 
-【IMAGE-017 START】
-
 ![image-017](./images/image-017.png)
-
-【IMAGE-017 END】
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.png)
-
-【IMAGE-018 END】
 
 COMM336 Consumer Behaviour
 
@@ -197,17 +92,7 @@ Tandy Thomas是一位非常开朗有趣的教授，她的课堂总是充满了�
 
 **Erin Webster**
 
-【IMAGE-019 START】
-
 ![image-019](./images/image-019.png)
-
-【IMAGE-019 END】
-
-【IMAGE-020 START】
-
-![image-020](./images/image-020.png)
-
-【IMAGE-020 END】
 
 COMM311 Fin Acctng Pract Prin & Concepts
 
@@ -221,23 +106,11 @@ COMM417 Business Combinations Accounting
 
 Erin Webster是一位备受学生喜爱的**会计教授**，有学生形容她犹如天使一般给予学生温暖和鼓励。她深知会计的难度，**一个步骤一个步骤地引导学生解决问题**，通过细致的解题过程，帮助学生逐渐理解和掌握复杂的概念，应对会计学的挑战。考虑学习会计方向的同学来选择她的课程可能是一个不错的选择。
 
-【IMAGE-021 START】
-
-![image-021](./images/image-021.png)
-
-【IMAGE-021 END】
-
 **Ending...**
 
 **未完待续~**
 
 更多精彩请期待熊猫酱下一篇推文！
-
-【IMAGE-022 START】
-
-![image-022](./images/image-022.png)
-
-【IMAGE-022 END】
 
 文字 | 金秋灵
 

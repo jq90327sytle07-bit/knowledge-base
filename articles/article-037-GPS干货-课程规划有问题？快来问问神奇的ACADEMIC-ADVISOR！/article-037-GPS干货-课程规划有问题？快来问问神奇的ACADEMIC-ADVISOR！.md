@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/9_MOuyaVfYGtdnHjSHxCmw  
-> 状态：自动搬运，暂未分类  
-> 图片数量：7  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：4 张
 
 ---
 
@@ -37,11 +26,7 @@ https://www.queensu.ca/artsci/undergrad-students/pass-academic-advising
 
 https://www.queensu.ca/artsci/undergrad-students/pass-academic-advising）
 
-【IMAGE-001 START】
-
 ![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
 
 **Drop or Not drop**
 
@@ -49,31 +34,17 @@ Drop or Not drop这是个问题！
 
 我应该drop这门课吗？我什么时候要决定？drop课能退回多少钱呢？我怎样才能补上错过的学分？在我这种情况下，drop课对我有什么影响？如果你感到课程负担过重，本课程将概述一些选项，并为你提供一些答案，帮助你做出这些重大决策。
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
 **大一学术顾问**
 
 大一阶段的学术规划咨询由PASS组织与学术顾问老师共同负责。PASS团队由来自文理学院不同专业和背景的高年级志愿者组成。所有的志愿者都接受过关于所有研究领域的培训。
 
 你可以与PASS顾问咨询以下问题：
 
-【IMAGE-003 START】
-
 ![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 如果想咨询下面的问题，你可以直接与学术顾问老师沟通交流：
 
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
 
 **高年级学术顾问**
 
@@ -87,11 +58,7 @@ Drop or Not drop这是个问题！
 
 通过网站degree check模块，来确认本专业的课程要求哦
 
-【IMAGE-005 START】
-
 ![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
 
 **其他帮助链接**
 
@@ -118,15 +85,3 @@ Enter "Studentcare" as the Login ID and select "Student" in the drop-down menu. 
 编辑：容易
 
 审核：唐韬tt ChrisJiang
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
-
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】

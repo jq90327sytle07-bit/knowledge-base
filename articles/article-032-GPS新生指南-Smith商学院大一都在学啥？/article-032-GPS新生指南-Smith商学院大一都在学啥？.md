@@ -2,46 +2,13 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/6Egq4ZzApLul7ffEzl-yLg  
-> 状态：自动搬运，暂未分类  
-> 图片数量：11  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：0 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-**商**
-
-**科**
 
 Commerce可以说是Queen’s最有优势的专业之一，同时也是竞争最激烈的专业之一。新入学的大家可能会有些专业方面的疑问，不过不用担心，下面熊猫酱就来给大家简单介绍一下商科的**就读体验**和**大一课程**吧~
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
-**专**
-
-**业**
-
-**简**
-
-**介**
+## 专业简介
 
 Commerce专业总共要修满126个学分，其中商科课程需要90-102学分（30-34门课），其他课程需要24-36学分（8-12门课）。
 
@@ -63,9 +30,7 @@ Commerce专业总共要修满126个学分，其中商科课程需要90-102学分
 
 - Marketing 市场营销
 
-- Operations Management and
-
-  Management Science 运营管理和管理学
+- Operations Management and Management Science 运营管理和管理学
 
 - Organizational Behaviour 组织行为学
 
@@ -73,49 +38,13 @@ Commerce专业总共要修满126个学分，其中商科课程需要90-102学分
 
 无论之后想选择哪个方向，熊猫酱都建议大家在大一大二**努力学习**，**打好基础**，这样后面学起来才不会太吃力~
 
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
-**就**
-
-**读**
-
-**体**
-
-**验**
+## 就读体验
 
 Queen’s商科会给大家很丰富的机会，有专门找实习和工作的网站平台**Quest**，也有各种**coffee chat**增强networking的机会。大三还可以去世界各地的大学**交换**，了解不同地方的文化。
 
 有关课程，感觉比较值得一提的是**小组合作**。商科课程会有很多小组合作！所有的课程，就连数学，都会有小组合作。以小组的形式一起完成presentation和report等作业，是锻炼社交能力的大好机会！
 
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
-
-**课**
-
-**程**
-
-**介**
-
-**绍**
+## 课程介绍
 
 学校会自动为大一大二学生分配课程，可以说是被安排的明明白白了！根据学长学姐的经验，大一fall被安排了**四门课**，而winter则被安排了**五门课**（具体课程安排可能会有变化，所以以下课程介绍仅供参考哦）。由于一个学期最多能上6门课，所以每学期只能选择1-2门自己感兴趣的选修课。
 
@@ -161,41 +90,11 @@ Queen’s商科会给大家很丰富的机会，有专门找实习和工作的�
 
 其他没有数学的课会有很多写作，也会有presentation。不过不用担心，只要你解释清楚，分析得有道理，用到课上所学的概念，根据rubric要求完成，就绝对没问题！相信自己，你ok！你稳！
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
-
-**写**
-
-**在**
-
-**最**
-
-**后**
+## 写在最后
 
 商科专业先暂时给大家介绍到这里，剩下等着大家自己去体验啦！
 
 在好好学习的同时记得多多走出舒适圈，尝试各种新的事物！你会发现不一样的自己~
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.jpg)
-
-【IMAGE-010 END】
 
 文字 | Jenny 
 
@@ -206,9 +105,3 @@ Queen’s商科会给大家很丰富的机会，有专门找实习和工作的�
 审核 | Leo Simon
 
 END
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.png)
-
-【IMAGE-011 END】

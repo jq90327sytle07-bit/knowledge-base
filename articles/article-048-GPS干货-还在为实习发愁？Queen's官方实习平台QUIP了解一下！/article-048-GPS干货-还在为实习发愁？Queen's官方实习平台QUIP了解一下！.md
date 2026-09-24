@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/KWkaiTyGeFoUPPa4cW4ZKQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：4  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：1 张
 
 ---
 
@@ -25,11 +14,7 @@ QUIP简介
 
 QUIP，全称**Queen’s Undergraduate Internship Program**，是学校为**大二和大三**的学生提供的**实习平台**，学校提供的intern一般是**12-16个月**，**国内学生和国际学生皆可申请**。这些带薪实习通常有**专业指导**并且可以**积累工作经验**，旨在带领学生体验行业进步，并且对当前匹配领域的技术革新有基本了解。
 
-【IMAGE-001 START】
-
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 申请要求
 
@@ -67,7 +52,7 @@ https://careers.queensu.ca/students/services-students/employment-programs/queens
 
 工程学院学生会注册**10.5**（**12个月**）-**14**（**16个月**）个学分的实习，分别为**ASPC302/3.5、ASPC303/3.5、ASPC301/3.5或ASPC304/3.5**（**二选一**）
 
-这些实习课程**不可以替代你的required courses**。在这些课程中，你需要**完成小组作业或者semina****r**，并且**接受雇主的评价**以获得学分。成功完成实习可以在毕业证上**获得标注**（with professional internship）
+这些实习课程**不可以替代你的required courses**。在这些课程中，你需要**完成小组作业或者seminar**，并且**接受雇主的评价**以获得学分。成功完成实习可以在毕业证上**获得标注**（with professional internship）
 
 *2、计算机学院*
 
@@ -91,18 +76,6 @@ BHSc的学生**无论线上还是线下**，都可以申请实习，可选择课
 
 以上就是对于QUIP的介绍啦，申请intern**越早越好**，所以大家看到有合适的就尽快下手吧！在大家大二入系之后，**系里面也会为大家提供internship的机会**，遇到喜欢的可千万不要错过！**我们也为大家建了一个QUIP的交流群，感兴趣的同学欢迎添加下方小助手微信进群。**最后，希望大家可以找到合适自己的实习，为自己的大学生活留下特别的回忆！
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
-
 文字 | Christy
 
 排版 | Christy
@@ -110,9 +83,3 @@ BHSc的学生**无论线上还是线下**，都可以申请实习，可选择课
 编辑 | Rika
 
 审核 | 容易 Olivia
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】

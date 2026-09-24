@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/3FXAXgbD_TEZHugLvBqFLg  
-> 状态：自动搬运，暂未分类  
-> 图片数量：13  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：0 张
 
 ---
 
@@ -24,12 +13,6 @@ Academic Integrity
 众所周知，国外大学有着严谨的**学术诚信规范条例**，对学术不端的投机取巧者都是报以零容忍的态度，因此每所学校都有着相应具体且严格的**学术处罚**。大部分学生对何为学术不端可能只知道一个大概，例如不能作弊，代写，代考等，但是对具体的规定和处罚并不是非常了解。这篇文章将会详细罗列**Queen’s现有的学术规范和相应的处罚条例**，希望能帮助各位同学避免不必要的麻烦。（篇幅预警！）
 
 以下内容摘取翻译于Queen’s Academic Regulations and University Policies.
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.gif)
-
-【IMAGE-001 END】
 
 根据学术诚信规范政策，任何违背这些价值观的行为都将损害**“大学基础的核心目标：自由探索和自由思想表达”**。违反学术诚信的类型包括但不限于以下几点：
 
@@ -73,12 +56,6 @@ Academic Integrity
 
 **如果学生因受到学术处罚而导致这门课的不及格，无论是否在截止日期内，其都无法退修（drop）此门课程。**
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.gif)
-
-【IMAGE-002 END】
-
 如果导师认为有理由给予比导师可以指定的处罚更严重的措施，则导师将会把案件提交给副院长(Associate Dean)审查。
 
 副院长可以指定的处罚和补救措施 -
@@ -103,15 +80,9 @@ Academic Integrity
 
 9. 建议其在规定的最短时间内**退学**；或
 
-10. 建议**撤销**或**废除****学位**(degree)。
+10. 建议**撤销**或**废除学位**(degree)。
 
 **学生因违反学术诚信而被要求退学的，在处分期间不得申请毕业。**
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.gif)
-
-【IMAGE-003 END】
 
 制定处罚时要考虑的因素 -
 
@@ -131,12 +102,6 @@ Academic Integrity
 
 7. 恐吓他人或激起别人不端行为的行为。
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.gif)
-
-【IMAGE-004 END】
-
 减轻情节不能免除或原谅对违反学术诚信的处罚，但可以考虑这些因素，以确保施加的制裁是公平、合理的，并与发现的违规行为的严重性相称。该处罚决定必须概述可以支持减轻情节的证据。学生有责任提供减轻情节的证据，其中可能包括：
 
 1. 由适当的专业人员提供的**书面证据**，证明在相关时间影响学生致其无法遵守学术诚信条例的因素；
@@ -146,12 +111,6 @@ Academic Integrity
 3. 有证据表明，在当时的情况下，没有合理正确的指导措施，让学生注意到学术诚信的标准。
 
 **总而言之，任何处罚都应对应违反学术诚信的程度和严重性，以及学术单位的先例，并考虑到任何可以减轻处罚的情况。**
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.gif)
-
-【IMAGE-005 END】
 
 **一级（轻度）违规**
 
@@ -168,12 +127,6 @@ Academic Integrity
 4. **没有直接证据**显示其有蓄意赚取利益；或
 
 5. 对其他学生或院校**没有直接影响**。
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.gif)
-
-【IMAGE-006 END】
 
 **二级（重度）违规**
 
@@ -210,45 +163,3 @@ https://www.queensu.ca/artsci/sites/default/files/academic\_regulations\_19\_fin
 编辑 / Lucas TT
 
 校对 / Kedi Bill
-
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.jpg)
-
-【IMAGE-008 END】
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.jpg)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.png)
-
-【IMAGE-011 END】
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.jpg)
-
-【IMAGE-013 END】

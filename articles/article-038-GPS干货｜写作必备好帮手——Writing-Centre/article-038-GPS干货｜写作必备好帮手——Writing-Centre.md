@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/8gX_KHxyJUGQe0PmQVqkMA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：4  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：2 张
 
 ---
 
@@ -43,21 +32,13 @@ Writing Centre隶属于Student Academic Success Services(简称SASS)，是Queens
 
 网站链接：https://sass.queensu.ca/
 
-【IMAGE-001 START】
-
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 进到界面后选择日期，时间段和辅导老师。记得**只能选择白色的预约时间**，红色表示已有人预约了这个时间段；黑色表示这段时间无法预约；灰色表示预约时间段已经无效。选择后系统会跳出预订窗口，按照网页上的指示填写就好啦。预约成功后，你会在Queens邮箱收到确认邮件。
 
 往年正常情况下，学生都是前往位于Stauffer Library一楼的SASS中心面对面接受辅导的。由于今年的特殊情况，目前所有的预约都改成了online模式。建议大家在预约成功后自行先试运行一下online meeting的系统，确保一切顺利。
 
-【IMAGE-002 START】
-
 ![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
 
 **如何加入Waiting List？**
 
@@ -82,15 +63,3 @@ Writing Centre隶属于Student Academic Success Services(简称SASS)，是Queens
 编辑/ 容易
 
 审核/ 唐韬 Chris
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】

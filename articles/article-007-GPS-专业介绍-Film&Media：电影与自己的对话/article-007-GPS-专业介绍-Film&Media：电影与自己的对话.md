@@ -2,26 +2,9 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/W-lyvUsMKi-pTOtnv2O95g  
-> 状态：自动搬运，暂未分类  
-> 图片数量：10  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：3 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
 
 电影替代了我们凝视着
 
@@ -61,12 +44,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 除此之外，个人认为Queen's的Film&Media专业更加偏向电影文化的研究。传媒类的课程会有一些关于新媒体，流行文化，大众媒体的课，但是并不多，而且学习的内容并不深刻（大家都拿它当水课上……）想要学习传媒（特别是Communication和新闻）的同学需要考虑一下这个专业是否适合你。（现在转学去隔壁卡尔顿还来得及哈哈~）
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
 **Film&Media Department所在的Isabel Bader Centre**
 
 **(图源官方Facebook)**
@@ -81,11 +58,7 @@ https://sdm.queensu.ca/undergraduate/mapp/
 
 2019年5月以后进专业的同学（即2022届）所需修的课程较前几届发生了很大变化。**大二除了Film250 Fundamental of Media Production外，新增了Film217及218 Film and Media History and Theory Pre/Post 1960的必修课程。除此之外还需要从Film206，216，226和236中选修两门。**
 
-【IMAGE-003 START】
-
 ![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 **2019年5月后的Degree Plan**
 
@@ -117,11 +90,7 @@ https://www.queensu.ca/filmandmedia/undergraduate/courses-2020-21
 
 250是一节电影拍摄制作实践课，向你系统地介绍了电影拍摄的一些基本知识和技巧。这节课的主要形式是Lecture+Lab，在lab上有很多动手操作的作业，是一门比较轻松有趣的课。这门课主要学习拍摄的各种镜头角度，摄像机的使用，打光，声音，后期使用Final Cut Pro或Pr剪辑，调色，合成绿幕特效等，都是一些比较基础的拍摄操作。基本都是从零教起，所以完全没有基础的同学也不需要太过担心！评分标准会有个人作业和小组合作拍摄作业，要求各不相同，可以借学校的所有设备来完成拍摄（摄像机，三脚架，麦克风，各种灯）。个人觉得除了秋季的Fianl exam有点离谱外，其他都很轻松好拿分。今年的标准及作业和往年几乎都一样，但是明年250修改后可能会压缩一些课程内容吧。
 
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
 
 **某次出外景中**
 
@@ -139,11 +108,7 @@ https://www.queensu.ca/filmandmedia/undergraduate/courses-2020-21
 
 218是217的延续课程，共用同一本textbook。相较于217，这门课主要集中与1960年之后的历史，着重学习电影理论及学者思想的研究。授课老师是Dan，个人目前在Film专业最喜欢的教授之一！相信我，他会把枯燥难懂的理论尽量以通俗易懂的方式教授给你，人特别好，盘他！这节课的内容大概包括电影作者论，现实主义/结构主义，电影符号学及意识形态，装置理论及心理精神分析，类型电影理论，女权电影理论，同性电影，黑人文化，后殖民主义民族电影，后现代主义等。粗看确实略微复杂难懂，但是Dan讲的非常好，他的lecture一定要去！reading也一定要看，就算没有完全看懂，一般教授上课都会再分析一遍，加深理解。作业大部分也依靠阅读和lecture，所以想要上好这门课一定要认真听认真学，只要稍微花点心思，拿A还是比较简单的。相较217很多传统经典电影，这节课看的猎奇电影不少，会有看完很懵逼的，也会有很惊喜，每一次看完都有重新认识电影学科的感觉，不剧透啦，等你们自己来体会吧哈哈！这门课除了In class reflection 外，还会有一个take home Mid-term exam，Film Clip Analysis和一个Syllabus Creation的Final Project。这门课非常理论，所以再次重复做reading很重要哦！
 
-【IMAGE-005 START】
-
 ![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】
 
 **Isabel 222 Screen Room**
 
@@ -173,12 +138,6 @@ Film&Media专业是一门很文的学科，如果你对自己的写作能力不�
 
 不知不觉写了很多，希望这篇文章能对想进Film&Media专业的你有些帮助。以安德烈·巴赞为始，也以他的另一句名言为终，愿你们能热爱这个专业，热爱电影，热爱生活。
 
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
-
 **让生活本身成为**
 
 **一场精彩的演出，**
@@ -191,12 +150,6 @@ Film&Media专业是一门很文的学科，如果你对自己的写作能力不�
 
 **但生活还是生活。**
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】
-
 **Kedi学姐2019年Film专业介绍引读：**
 
 [GPS专业介绍 | 一入Film&Media深似海 从此头发是路人](https://mp.weixin.qq.com/s?__biz=MzA3OTc3NDUxNg==&mid=2651191937&idx=1&sn=ba1d7d11df9799377b6577fc7bd48116&scene=21#wechat_redirect)
@@ -208,21 +161,3 @@ Film&Media专业是一门很文的学科，如果你对自己的写作能力不�
 编辑 容易
 
 审核 TT Chris
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.jpg)
-
-【IMAGE-010 END】

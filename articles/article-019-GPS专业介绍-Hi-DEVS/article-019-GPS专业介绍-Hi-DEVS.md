@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/0g-mVBLW24cDJTq7G9-B5w  
-> 状态：自动搬运，暂未分类  
-> 图片数量：7  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：2 张
 
 ---
 
@@ -39,21 +28,13 @@ Devs Requirements
 
 Major devs的同学们一定要上的课程是Devs100，230，240，300，340，492（这门课是topic course，每个学期的topic不一样，要上两次不同主题的课）。同时，需要从devs-eligible language instruction courses里选择上6个学分的语言课（除英语以外），常见的法语、西语、意大利语、德语、日语等都是可以选择的。要注意的是国际学生母语是中文的话不可以选择中文。
 
-【IMAGE-001 START】
-
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 https://www.queensu.ca/devs/undergraduate/degrees/major
 
 minor的同学们就相对要轻松一些，除了Devs100，230，240是必修，只需要再学6门devs或devs eligible的课程即可，也没有二外的要求。
 
-【IMAGE-002 START】
-
 ![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
 
 **03**
 
@@ -99,12 +80,6 @@ How is Devs？
 
 The world is a fucked up place, but you are gonna get used to it.
 
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
-
 文字 / Kedi
 
 排版 / Kedi
@@ -113,28 +88,4 @@ The world is a fucked up place, but you are gonna get used to it.
 
 校对 / Kedi Bill
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
-
 ❤️ ❤️ ❤️
-
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】

@@ -2,32 +2,11 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/tOaDDiwyhtH9hldCL_-iEQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：28  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：1 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
 
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
 
 手机屏幕面前的朋友们大家好！本人是目前就读于大二计算机工程『computer engineering』并在工程之路上越走越远的脱发学姐Evelyn。相信点开推文的你，多多少少对“工程”这个神秘的词汇感到好奇。
 
@@ -55,15 +34,9 @@ Mechanical Engineering
 
 Mining Engineering
 
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
 ---
 
-- 应用数学 -
+## 应用数学
 
 Applied Mathematics in Engineering 
 
@@ -81,35 +54,17 @@ Applied Mathematics in Engineering 
 
 数学工程又叫Apple Math，应该是从applied math延伸过来的一个好玩点儿的说法（我猜的
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
 ）。女王是加拿大唯一有数学工程的学校！所以数学工程非常“unique”。除去所有工程专业都要上的工程实践设计课，数学工程会学很多数学的课程。有些数学课是和artcsi数学专业一起上的，有些是专业里的数学课。除了上数学课，数学专业还会根据不同的option上其他方向的课。
 
 既要学机械有关的课程，也要学ECE的课程，总体来说这是一个非常有挑战性的专业。学生最好对数学有很高的兴趣，能对抗巨大的课程量… 能够在专业里顽强存活下来的都非常了不起！Apple Math的学生不仅建立了专业的数学思维，同时也掌握了其他工程专业的知识（我觉得基本算是工程里的双专业了……）。
 
 Apple毕业之后的选择很广泛，大多数可以选择读研深造，因为Apple本身是工程专业里比较偏学术的专业。在就业方面，数学工程的学生可以从事数据分析、编程、机器人研发以及银行理财投资等等等很多领域。总之，如果你是一个热爱数学，想要挑战自己并且自信坚强努力的超棒人类，快来Apple Math吧！
 
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
 ---
 
-- 化学工程 -
+## 化学工程
 
 Chemical Engineering 『Chem Eng』
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
 
 ▌Specializations：
 
@@ -131,15 +86,9 @@ Chemical Engineering 『Chem Eng』
 
 俗话说得好，兴趣是最好的老师，要是对化学真的兴趣很浓厚，放心大胆去选，毕竟行行出状元。就我个人经历来说，我的初衷是学生物，然而并没有这个选项，所以就选了个自己还比较喜欢的化学，现在并不后悔。
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
 ---
 
-- 工程化学 -
+## 工程化学
 
 Engineering Chemistry 『Engchem』
 
@@ -155,23 +104,11 @@ Engineering Chemistry 『Engchem』
 
 关于CHEM ENG CHEM的干货，我们会另起一篇推文提供更多干货，感兴趣的朋友们可以继续关注我们的公众号。
 
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
-
 ---
 
-- 土木工程 -
+## 土木工程
 
 Civil Engineering
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.jpg)
-
-【IMAGE-009 END】
 
 ▌Specializations：
 
@@ -205,23 +142,11 @@ Civil这个专业有四个方向，大二大三上的课是专业基础课，大
 
 欢迎加入Civil Engineering大家庭！
 
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
-
 ---
 
-- 计算机工程 -
+## 计算机工程
 
 Computer Engineering 『Comp Eng』
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.png)
-
-【IMAGE-011 END】
 
 **@Evelyn：**
 
@@ -255,15 +180,9 @@ Comp Eng没有提供具体的Sub-Plans，但是在大三大四学校提供了许
 
 最后的最后，大三的学生是可以上大四的课的，但是一定要慎重，大四的课就像南孚电池，一节更比六节强。
 
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
 ---
 
-- 电气工程 -
+## 电气工程
 
 Electrical Engineering 『Elec』
 
@@ -275,23 +194,11 @@ ECE并没有像别的系要求大二一定要定specialization的，你可以按
 
 Anyway，欢迎各位加入EE大家庭。
 
-【IMAGE-013 START】
-
-![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
-
 ---
 
-- 工程物理 -
+## 工程物理
 
 Engineering Physics (EngPhys)
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.png)
-
-【IMAGE-014 END】
 
 ▌Specialization: 
 
@@ -315,23 +222,11 @@ Engineering Physics (EngPhys)
 
 在Eng Phys我个人总体的感受呢，确实忙确实累确实难，偶尔也会很烦躁，但是，我还是很开心这是我的选择。我们专业总体的气氛很独特，group chat里除了日常讨论学习，还会有人突然爆发疯狂吐槽教授，吐槽作业，会有人发别人上课睡觉的照片，甚至我还看到过有人催另外一个人去睡觉…. 每天能聊个好几十条…. 开玩笑归开玩笑，这些人都是很热心很友好的。总之，Engineering Physics真的不是大家想象的那么可怕。
 
-【IMAGE-015 START】
-
-![image-015](./images/image-015.png)
-
-【IMAGE-015 END】
-
 ---
 
-- 机械工程 -
+## 机械工程
 
 Mechanical Engineering (Mech)
-
-【IMAGE-016 START】
-
-![image-016](./images/image-016.jpg)
-
-【IMAGE-016 END】
 
 ▌Sub-Plans:
 
@@ -351,21 +246,9 @@ Mechanical Engineering (Mech)
 
 下学期的课，麻烦之王: 『APSC200』，大二下半学期『APSC 200/293』绝对会是你花最多时间的一门课！200和293总共有5个学分！对GPA的影响会是最大的！这两个课号实际上是一门课，只不过评分的时候一个是偏内容方面，一个偏语法语句方面的。这个课每周不仅有两个lecture，还有两个两小时的studio，还有无数的meeting，report，project...（meeting会充斥在你的脑海）一定要和组员搞好关系，多贡献一点自己的力量，和APSC 100不一样，peer review的成绩会直接扣最后的总分！一共两个peer review！祝你们好运！最难的小妖精：Mech241，学姐表示考了两次test的我还是对这门课一脸懵逼。教授属于比较坑的类型，所以这门课全靠自学了。但是这门课是可以暑假上网课的，建议大家能在暑假把它上完的就尽量把它上了。同样可以在暑假上的『APSC221, MTHE225, MECH230』。其他的课有『MECH228, ELEC210, MTHE272』，228和272都是quiz比较多的课大概两周一次，210就还好，认真学还是挺好拿分的。
 
-【IMAGE-017 START】
-
-![image-017](./images/image-017.png)
-
-【IMAGE-017 END】
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.png)
-
-【IMAGE-018 END】
-
 ---
 
-- 地质工程 -
+## 地质工程
 
 Geological Engineering 『Geo』
 
@@ -379,21 +262,9 @@ Geological Engineering 『Geo』
 
 ④Applied Geophysics
 
-【IMAGE-019 START】
-
-![image-019](./images/image-019.png)
-
-【IMAGE-019 END】
-
-【IMAGE-020 START】
-
-![image-020](./images/image-020.png)
-
-【IMAGE-020 END】
-
 ---
 
-- 矿业工程 -
+## 矿业工程
 
 Mining Engineering
 
@@ -405,37 +276,13 @@ Mining Engineering
 
 ③Mine-Mechanical Sub-Plan
 
-【IMAGE-021 START】
-
-![image-021](./images/image-021.png)
-
-【IMAGE-021 END】
-
 关于Geo和Mining，由于没有找到读这两个专业的朋友，这里就只是简单列举了一下specialization。据我了解，这两个专业由于规模较小，所以学生和学生，学生和教授之间联系特别紧密，也是很不错的专业。而关于它们具体的信息，大家也可以在学校的官网上找到。
 
-【IMAGE-022 START】
-
-![image-022](./images/image-022.jpg)
-
-【IMAGE-022 END】
-
 非常感谢很有耐心阅读到这里的你。
-
-【IMAGE-023 START】
-
-![image-023](./images/image-023.png)
-
-【IMAGE-023 END】
 
 继颈椎病、眼疲劳、久坐肥胖和饮食不规律逐渐成为程序猿的职业病以后，越来越多的人开始对计算机这个专业产生一种不敢尝试的想法。其实不然，每个专业或是工作都有各自的利和弊。不要因为害怕就不敢尝试。
 
 在工程这个系呆的越久，越来越接近佛系的一种生活状态。咖啡配枸杞，保温杯里养身体。为了配得上毕业的iron ring，作为工程系的一员，愿大家无论是在哪个专业，都能熬得了夜，刷的了题，踏踏实实走过大学四年。
-
-【IMAGE-024 START】
-
-![image-024](./images/image-024.jpg)
-
-【IMAGE-024 END】
 
 #互动#
 
@@ -446,18 +293,6 @@ Mining Engineering
 下一步应该做什么？
 
 当然是**「点赞+收藏+转发」**呀
-
-【IMAGE-025 START】
-
-![image-025](./images/image-025.png)
-
-【IMAGE-025 END】
-
-【IMAGE-026 START】
-
-![image-026](./images/image-026.jpg)
-
-【IMAGE-026 END】
 
 别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发别忘了转发
 
@@ -472,17 +307,3 @@ Mining Engineering
 编辑 / 奕凡
 
 全年赞助 / Tian Bao Travel
-
-【IMAGE-027 START】
-
-![image-027](./images/image-027.jpg)
-
-【IMAGE-027 END】
-
-                                                                                         
-
-【IMAGE-028 START】
-
-![image-028](./images/image-028.jpg)
-
-【IMAGE-028 END】

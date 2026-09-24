@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/adSRIHJS9soEpS-JKTjxew  
-> 状态：自动搬运，暂未分类  
-> 图片数量：9  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：1 张
 
 ---
 
@@ -23,25 +12,7 @@ Statistics
 
 Queen's统计专业怎么样？
 
-【IMAGE-001 START】
-
-![image-001](./images/image-001.gif)
-
-【IMAGE-001 END】
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.gif)
-
-【IMAGE-002 END】
-
 统计难学吗？
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 在这个大数据的时代，相信有不少学弟学妹们对统计这个大热门专业一定非常感兴趣。那统计究竟怎么样，如何学？千万不要走开，熊猫酱这就来带你细细研究一番！
 
@@ -69,21 +40,11 @@ Queen's统计专业怎么样？
 
 总GPA达到0.7，并在MATH 1##课程中获得C或以上的成绩。统计专业路径图如下：
 
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
 
 想要选择统计系在大一就需要斟酌一下选课了，熊猫酱也为大家收集整理了统计系的**大一必修课**和大二及以后的**推荐课程**。
 
 **大一必修**
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】
 
 推荐指数：★★★★★
 
@@ -94,12 +55,6 @@ Math 110 （年课）      
 建议就是，课后复习，把不懂的地方尽快搞懂，不要超过一周，不然会跟不上进度。G.G会提供他的notes某种意义上算是一本书，这也导致好多人干脆不去听课，直接看notes（实际上可行，因为G.G的课一般是照着notes读）。Ivan评价两极分化，有的很喜欢，有的不喜欢。他上课一般是想讲什么讲什么有的时候你会觉得课程不连接。但一定要去上，因为不提供notes（不确定明年提不提供，因为据说网课他也交了，好像搞了份notes,但之前没有）
 
 **大一必修**
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
 
 推荐指数：★★★★★
 
@@ -117,12 +72,6 @@ Math 120（年课）
 
 **大二推荐课程**
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】
-
 推荐指数：★★★★★
 
 math280 math281 stat268 stat269
@@ -134,12 +83,6 @@ math280 math281 stat268 stat269
 281讲的是Real Analysis，算是比较重要的一门课，后期会讲一点拓扑
 
 然后不是必修但大部分人都会修的是math231,math231讲的是微分方程，math210也会有部分人选择，但证明在这门课中应用较多，不喜欢证明的可以跳过这门课。
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 **结语**
 
@@ -160,9 +103,3 @@ https://www.queensu.ca/mathstat/undergraduate/prospective-undergraduate/stats
 编辑：RIKA
 
 审核：容易 Olivia
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.jpg)
-
-【IMAGE-009 END】

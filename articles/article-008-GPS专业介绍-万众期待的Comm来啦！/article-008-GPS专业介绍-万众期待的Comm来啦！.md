@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/AKYMQkq3Lzdy-9f8d3z-AQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：5  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：0 张
 
 ---
 
@@ -173,12 +162,6 @@ COMM 190 Intro to Digital Business and Technologies
 
 今天商科学习的分享就到这里啦，希望大家看完以后有所收获~
 
-【IMAGE-001 START】
-
-![image-001](./images/image-001.gif)
-
-【IMAGE-001 END】
-
 文字 / Jean
 
 排版 / Kedi
@@ -187,28 +170,4 @@ COMM 190 Intro to Digital Business and Technologies
 
 校对 / Kedi Bill
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
-
 ❤️ ❤️ ❤️
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】
