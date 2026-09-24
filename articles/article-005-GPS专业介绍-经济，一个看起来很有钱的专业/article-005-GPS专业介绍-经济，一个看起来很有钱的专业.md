@@ -2,28 +2,11 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/jkokEGuDvX_dMiDKrUFEGQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：5  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：0 张
 
 ---
 
 改革春风吹满地，在以经济建设为中心的新时代，经济成为了一门与计算机并列的最受留学生欢迎的专业。那么经济学究竟是什么，学什么，前景如何？就听熊猫酱给你娓娓道来。
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.gif)
-
-【IMAGE-001 END】
 
 ***01***
 
@@ -46,12 +29,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
  ……
 
 总之，是研究整个社会，人，以及钱的一个专业，如果你对以上提及的事物感兴趣，那么就选它！
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
 
 ***02***
 
@@ -78,12 +55,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 具体enroll课程参考degree plan:
 
 https://www.queensu.ca/artsci/sites/default/files/degree\_plans\_and\_course\_lists\_final\_1.pdf#%5B%7B%22num%22%3A705%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitH%22%7D%2C796%5D
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
 
 ***03***
 
@@ -207,12 +178,6 @@ Econ 200 level选修课，prof蛮好的很耐心，介绍经济学发展模型�
 
 -  多参加与经济学相关的社团组织和竞赛。例如QECC，Queen’s Economic Case Conference，每年都会举办商业竞赛和讲座，你将有机会见到来自加拿大各知名企业团体的大佬。
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
 ***05***
 
 **总结**
@@ -230,9 +195,3 @@ Econ 200 level选修课，prof蛮好的很耐心，介绍经济学发展模型�
 编辑 | Rika
 
 审核 | 容易 Olivia
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】

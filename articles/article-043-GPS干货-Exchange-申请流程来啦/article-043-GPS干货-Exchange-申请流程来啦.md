@@ -2,42 +2,13 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/CG0zyJWbdrrKUjIqTIFxhQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：15  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：7 张
 
 ---
 
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-交
-
-换
-
-指
-
-南
+## 交换指南
 
 梦想多远都可以到达
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
 
 **一切皆有可能**
 
@@ -79,11 +50,7 @@ https://www.queensu.ca/ipo/home
 
 **答**
 
-【IMAGE-003 START】
-
 ![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 **问**
 
@@ -95,11 +62,7 @@ https://www.queensu.ca/ipo/home
 
 **答**
 
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
 
 上图是官网给出的解释，换句话说：QU和一百多个学校有双方相互一换一交换项目。学生先申请这个项目，被QU选出来，欸小伙子不错，把你的材料发给你申请的友校A去，如果A觉得也可以，QU也挑中了A的一名交换生，这事儿就成了，你自己最后再确定一下，然后收拾收拾自己准备文件。
 
@@ -119,11 +82,7 @@ IPO已经非常贴心的准备了要求和注意要点。小熊猫就不多废�
 
 **答**
 
-【IMAGE-005 START】
-
 ![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
 
 **问**
 
@@ -135,11 +94,7 @@ IPO 也有针对这个问题的回答。熊猫酱只是个没有感情的搬运�
 
 **答**
 
-【IMAGE-006 START】
-
 ![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
 
 **选学校**
 
@@ -162,11 +117,7 @@ https://www.queensu.ca/ipo/outgoingstudents/exchange/find-university
 
 **答**
 
-【IMAGE-007 START】
-
 ![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
 
 **问**
 
@@ -190,11 +141,7 @@ https://www.queensu.ca/ipo/outgoingstudents/exchange/find-university
 
 **2021-2022学期的申请截止日期是2021年1月15号**。
 
-【IMAGE-008 START】
-
 ![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 statement of interest essay 的两个question：
 
@@ -216,11 +163,7 @@ https://www.queensu.ca/ipo/outgoing-students/exchange/apply
 
 **IPO对大三大四的申请者要求如下**
 
-【IMAGE-009 START】
-
 ![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
 
 **其他**
 
@@ -262,35 +205,11 @@ IPO的负责老师会与你联系，同时还会组织大家进行一系列出�
 
 **答**
 
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.gif)
-
-【IMAGE-011 END】
-
 11月的16号到19号，IPO组织了针对不同交换国家的讲座，如果你对交换感兴趣，不妨可以去参加一下。
 
 报名链接：点击 阅读原文
 
 https://queensu.qualtrics.com/jfe/form/SV\_0e7pZL49Ig2LyCh
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
 
 这就是今天的全部内容啦~熊猫酱补作业去啦
 
@@ -303,15 +222,3 @@ https://queensu.qualtrics.com/jfe/form/SV\_0e7pZL49Ig2LyCh
 编辑 容易
 
 审核 唐韬 Chris
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.png)
-
-【IMAGE-014 END】
-
-【IMAGE-015 START】
-
-![image-015](./images/image-015.jpg)
-
-【IMAGE-015 END】

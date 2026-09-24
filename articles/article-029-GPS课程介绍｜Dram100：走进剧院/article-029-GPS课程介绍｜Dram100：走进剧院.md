@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/e3dmxcLiJNF_FBaEytWTYg  
-> 状态：自动搬运，暂未分类  
-> 图片数量：6  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：4 张
 
 ---
 
@@ -35,21 +24,13 @@ Dram100主要学习的还是基础类的戏剧知识。如：戏剧的不同种�
 
 除lecture外，Drama每周还会有一节tutorial。在tutorial上，TA会引导学生运用课上学到的概念来表演。除表演外，TA还会组织活动，让同学们在熟练表演技巧中认识彼此，便于后期小组合作，以及之后的团队表演（Version1.0/2.0/3.0）
 
-【IMAGE-001 START】
-
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 （Lecture课上教授邀请的guest speaker，在课上与学生交流心得与经验）
 
 （图为DRAM100要求观看的戏剧之一的门票与宣传册，左图为同时担任编剧及主演的Ellie Moon受邀在课上与教授交流）
 
-【IMAGE-002 START】
-
 ![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
 
 **02**
 
@@ -81,17 +62,9 @@ Dram100主要学习的还是基础类的戏剧知识。如：戏剧的不同种�
 
 （秋季学期末，教授为大家争取到的免费剧场票）
 
-【IMAGE-003 START】
-
 ![image-003](./images/image-003.jpg)
 
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
 
 （猜猜哪一位才是刚刚提到的教授呢？）
 
@@ -102,15 +75,3 @@ Dram100主要学习的还是基础类的戏剧知识。如：戏剧的不同种�
 编辑 容易
 
 审核 TT Chris
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】

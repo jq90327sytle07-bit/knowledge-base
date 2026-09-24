@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/3Kb5WEDJvWZDy5-bS4JDRw  
-> 状态：自动搬运，暂未分类  
-> 图片数量：7  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：1 张
 
 ---
 
@@ -21,37 +10,21 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 GPS Introduction of academic consideration
 
-- 目录 -
-
-【IMAGE-001 START】
+## 目录
 
 ![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 **引言**
 
 不知道在校园中生活的小伙伴们，是否在生活中遇到一些令自己无可奈何的情况，例如当你花费了数周的心血，字斟句酌地敲击键盘，在数个夜晚坚守在屏幕前一字一句润色而完成的final essay，就为了在教授那儿薅来一个高分，却在上交前的时候电脑死机而导致essay交不上去，又或者是精心准备了数天的presentation，一切就绪后却在演讲的前一天晚上高烧不退……
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
 是不是光想象一下这两种场景是不是就血压飙升? 在感叹自己不走运的同时又不禁暗暗担心这些事故会不会影响自己的GPA，而这个时候就轮到情有可原的学术考虑来“救你一命了”。
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.gif)
-
-【IMAGE-003 END】
 
 **01**
 
 **情有可原的学术考虑是什么？**
 
-情有可原的学术考虑（Academic Consideration）是学校为了帮助学生减小**因出现无法预料到且情有可原的个人原因****，即个人无法控制的情况****，**而对学术成绩产生负面影响的人性化政策。学生通过递交“学术考虑”申请，向教授或学院申诉自己遇到的情况，阐述自己的诉求，并双方沟通后确定一个方式去“弥补受到影响的GPA”。
+情有可原的学术考虑（Academic Consideration）是学校为了帮助学生减小**因出现无法预料到且情有可原的个人原因，即个人无法控制的情况，**而对学术成绩产生负面影响的人性化政策。学生通过递交“学术考虑”申请，向教授或学院申诉自己遇到的情况，阐述自己的诉求，并双方沟通后确定一个方式去“弥补受到影响的GPA”。
 
 例如上文提到的，如果presentation前一晚高烧不退，可以通过提交学术考虑申请去请求教授延期你的演讲日期。
 
@@ -129,12 +102,6 @@ GPS Introduction of academic consideration
 
 证明文件需要在提交请求后的5 个工作日内提交。如果未提交证明文件，申请可能会被驳回，并且**所有因情有可原的学术考虑的长期请求必须在课程结束/结束之前提交，对于全年课程，请求必须在求学术考虑的学期内收到。**
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
-
 最后的最后，啰啰嗦嗦的熊猫酱再提醒大家一些小tips
 
 **Tips：**
@@ -148,12 +115,6 @@ GPS Introduction of academic consideration
 以上就是本期对于Queen‘s Academic Consideration的科普啦，感谢大家的阅读~
 
 如果这篇文章可以成功帮助到小伙伴们或者小伙伴们的小伙伴（套娃），那么也请点赞支持一下熊猫酱吧，一个赞温暖熊猫酱一小会儿，足够多的赞可以暖熊猫酱一整个冬天~
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】
 
 咱们下期再会！
 
@@ -171,16 +132,4 @@ GPS Introduction of academic consideration
 
 审核 / Leo，Simon
 
-【IMAGE-006 START】
-
-![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
-
 \*如有合作意向，请联系微信：gpsxiaozhushou
-
-【IMAGE-007 START】
-
-![image-007](./images/image-007.jpg)
-
-【IMAGE-007 END】

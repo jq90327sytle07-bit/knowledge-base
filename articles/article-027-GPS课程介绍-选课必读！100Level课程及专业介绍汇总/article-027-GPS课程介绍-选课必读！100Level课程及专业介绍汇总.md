@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/w0_LQ-Zou1Ldq0vwrou4jA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：5  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：0 张
 
 ---
 
@@ -201,27 +190,9 @@ Dram100 - Introduction to the Theatre
 
 以上就是今天给大家介绍的几门100-level课程及更新专业啦，有想要了解的更多课程/专业都可以在后台或者给小助手留言哦～点击学术汇总的传送门，里面有以往更多专业课程介绍以及其他学术相关内容，欢迎大家点击查看并提问！
 
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
 期待与各位未来在校园的相见～
 
 Stay safe！
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 文字鸣谢 / Alisa, Claire, Nathan, Nina,
 
@@ -232,15 +203,3 @@ Philip, Spencer, 小土，容易
 编辑 / 容易
 
 审核 / Chris TT
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.jpg)
-
-【IMAGE-005 END】

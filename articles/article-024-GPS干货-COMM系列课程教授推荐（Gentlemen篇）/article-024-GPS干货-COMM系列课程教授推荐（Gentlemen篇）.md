@@ -2,52 +2,17 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/Z095ouZbofeC3tKxxG81YA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：18  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：7 张
 
 ---
 
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-前
-
-言
+## 前言
 
 看完了上一篇关于 Commerce 美女教授们的介绍，相信同学们已经对在Smith学习充满期待！**接下来，让我们的视线移步到充满风采的 gentlemen这里来！**这些优雅的绅士们也将同女士们一起带领大家漫步在知识的殿堂！
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
 **Shaun Cahill**
 
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
 
 COMM190 Intro. to Digital Business & Tech.
 
@@ -59,21 +24,11 @@ COMM495 Project Management
 
 ★★★★★
 
-**强推！！****RMP\*上为数不多5/5且多评论教授**！第一节上直接说，“只要想学，每个人都可以拿着A离开”。如果学生的作业分低于75%，Cahill允许学生不停提交新的版本直到成绩达到80%；他给每个作业一次不需要理由的extension，申请即默认通过。Cahill的课堂也有活力，所学知识广泛适用于各行各业，深受同学们喜欢；他的课常常一席难求（除高难度的COMM493外，但只要组员好一样能拿A）。他的课，闭眼冲就行！
+**强推！！RMP\*上为数不多5/5且多评论教授**！第一节上直接说，“只要想学，每个人都可以拿着A离开”。如果学生的作业分低于75%，Cahill允许学生不停提交新的版本直到成绩达到80%；他给每个作业一次不需要理由的extension，申请即默认通过。Cahill的课堂也有活力，所学知识广泛适用于各行各业，深受同学们喜欢；他的课常常一席难求（除高难度的COMM493外，但只要组员好一样能拿A）。他的课，闭眼冲就行！
 
 **Jim Hamilton**
 
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
-【IMAGE-006 START】
-
 ![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
 
 COMM434 Sales Management
 
@@ -83,17 +38,7 @@ Jim Hamilton也是一位充满活力的教授，他的课堂氛围非常积极�
 
 **Anwar Husain**
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
-【IMAGE-008 START】
-
 ![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 COMM122 Finance II
 
@@ -101,17 +46,7 @@ Anwar Husain上课幽默风趣，会在一些party节日当天提前下课鼓励
 
 **Peter Kissick**
 
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
 ![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
 
 (COMM 381 Business Law I)
 
@@ -123,17 +58,7 @@ Peter Kissick的**法律课程**备受学生喜爱。他的课堂更像是一个
 
 **Greg Libitz**
 
-【IMAGE-011 START】
-
-![image-011](./images/image-011.png)
-
-【IMAGE-011 END】
-
-【IMAGE-012 START】
-
 ![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
 
 COMM101 Intro. to Commerce
 
@@ -145,17 +70,7 @@ Greg Libitz是一位**较为传统的教授**，很重视课堂体验；即使�
 
 **Philip Osanic**
 
-【IMAGE-013 START】
-
-![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
-
-【IMAGE-014 START】
-
 ![image-014](./images/image-014.png)
-
-【IMAGE-014 END】
 
 COMM381 Business Law I
 
@@ -163,29 +78,13 @@ Philip Osanic是**一位持证律师**。他的**授课方式相当硬核**，�
 
 **John-Kurt Pliniussen**
 
-【IMAGE-015 START】
-
-![image-015](./images/image-015.png)
-
-【IMAGE-015 END】
-
-【IMAGE-016 START】
-
 ![image-016](./images/image-016.png)
-
-【IMAGE-016 END】
 
 COMM339 Channels & Internet Marketing
 
 ★★★★★
 
 同学们亲切地称呼他为JP。他是一位富有个性的教授，总会戴着棒球帽穿着花袜子来上课，时不时讲一些冷笑话，时不时讲一些人生道理。他强调一个“digital marketor”要有幽默感和创意，这个理念也始终贯彻在他的教学中。COMM339是一门**任务量非常大的课**，其中一个作业会要求同学们在3周的时间里几乎完全投入其中。在这个作业完成后，JP在课堂上说道：“你们能在3周里做完这个作业，你们将来还有什么是做不到的？”
-
-【IMAGE-017 START】
-
-![image-017](./images/image-017.png)
-
-【IMAGE-017 END】
 
 **熊猫酱寄语**
 
@@ -194,12 +93,6 @@ COMM339 Channels & Internet Marketing
         大学生活中，我们学习的不仅仅是课程知识，更是在不同教授的引领下，培养自己的学术方法和独立思考的能力。每位教授都是知识的传递者，而**找到适合自己的学习方式才是最关键的**。
 
         愿同学们能够以平和的心态对待选课过程中的各种变数，真正找到属于自己的学习方式，拥有充实而无悔的大学生活！
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.png)
-
-【IMAGE-018 END】
 
 文字 | 金秋灵
 

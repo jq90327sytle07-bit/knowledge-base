@@ -2,46 +2,13 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/8Dt_CaP1MazkBtRr_FiIKg  
-> 状态：自动搬运，暂未分类  
-> 图片数量：18  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：0 张
 
 ---
 
-## 人工整理说明
+**‘一篇带你了解学术申诉的意义以及作为Queen's三大学院的学生如何准备申诉的导航文’**
 
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-Academic
-
-Appeals
-
-of
-
-Queen's
-
-University
-
-**‘一篇****带你了解学术申诉的意义以及作为Queen's三大学院的学生如何准备申诉的导航文’**
-
-- 目录 -
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
+## 目录
 
 01
 
@@ -59,29 +26,11 @@ University
 
 **上诉之商学院篇**
 
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
 [以下长…篇幅预警，请小熊猫们选择性阅读，不要上头啦~]
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.gif)
-
-【IMAGE-004 END】
 
 **01**
 
 **学术申诉是什么？**
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
 
 **意外触犯到学术规则的权益维护**
 
@@ -97,7 +46,7 @@ University
 
 解惑Tips:
 
-**除了标准课程学习或非学术学科相关的上诉外****，****情有可原的情况****包括**：
+**除了标准课程学习或非学术学科相关的上诉外，情有可原的情况包括**：
 
 - 学生或学生的家人突然生病（接近deadline的时候），或者病了很长一段时间，无法继续学习；
 
@@ -120,12 +69,6 @@ University
 
 **文理学院篇**
 
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
-
 **文理学院的上诉分为三个级别。**
 
 **上诉过程不算复杂但是相当繁琐。**
@@ -138,7 +81,7 @@ University
 
 Level 1：Appeal to the Associate Deans
 
-1). 上诉的费用为**在线提交，****固定$50.00/次**
+1). 上诉的费用为**在线提交，固定$50.00/次**
 
 [Tips：费用只能使用debit/visa/mastercard哦，不支持使用学生账户内的余额]
 
@@ -146,7 +89,7 @@ Level 1：Appeal to the Associate Deans
 
 *https://webapp.queensu.ca/artsci/appeals/*
 
-3). **申****诉需要准备的材料**
+3). **申诉需要准备的材料**
 
 a).上诉信（Appeal Letter）
 
@@ -216,7 +159,7 @@ a).上诉信（Appeal Letter）
 
 Level 2：Appeal to the Board of Studies
 
-1). **大学系务会为第二级上诉**，**学生可以****对第一级也就是向学院副院长上诉得到的结果向系务会再次提起申诉**。
+1). **大学系务会为第二级上诉**，**学生可以对第一级也就是向学院副院长上诉得到的结果向系务会再次提起申诉**。
 
 2). 如果第一级上诉没有通过，学生会在收到的决定书收到信息，说明可以将副院长的决定上诉给系务会。在**收到通知的21天内必须提交完毕**。
 
@@ -254,23 +197,11 @@ phone: (613) 533-6495, 
 
 web: http://www.queensu.ca/ombudsman/
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
 **03**
 
 上诉·之
 
 **工程学院篇**
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 **工程学院的学术申诉同样也分为三个级别。**
 
@@ -387,12 +318,6 @@ University Ombudsperson,
 Phone: 613-533-6495
 
 Email: ombuds@queensu.ca
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
 
 **04**
 
@@ -511,12 +436,6 @@ Type 2：Appeals Related to Academic Progression
 
         - 学生有权利就第一级和第二级申诉的过程去联系大学生上诉委员会进行上诉，但仅针对前面上诉的过程进行评定。
 
-【IMAGE-010 START】
-
-![image-010](./images/image-010.jpg)
-
-【IMAGE-010 END】
-
 以上就是本期对于Queen‘s Academic Appeals的科普啦，感谢大家的阅读~
 
 耐心看完的小熊猫们希望能对你们有所帮助！
@@ -529,12 +448,6 @@ Type 2：Appeals Related to Academic Progression
 
 爱你们的熊猫酱💟
 
-【IMAGE-011 START】
-
-![image-011](./images/image-011.jpg)
-
-【IMAGE-011 END】
-
 文字 / Jacky
 
 排版 / Jacky
@@ -542,45 +455,3 @@ Type 2：Appeals Related to Academic Progression
 编辑 / Lucas TT
 
 校对 / Kedi Bill
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.jpg)
-
-【IMAGE-012 END】
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.jpg)
-
-【IMAGE-013 END】
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.jpg)
-
-【IMAGE-014 END】
-
-【IMAGE-015 START】
-
-![image-015](./images/image-015.png)
-
-【IMAGE-015 END】
-
-【IMAGE-016 START】
-
-![image-016](./images/image-016.png)
-
-【IMAGE-016 END】
-
-【IMAGE-017 START】
-
-![image-017](./images/image-017.png)
-
-【IMAGE-017 END】
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.jpg)
-
-【IMAGE-018 END】

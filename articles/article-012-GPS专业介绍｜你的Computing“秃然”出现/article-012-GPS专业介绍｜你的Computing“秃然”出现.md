@@ -2,50 +2,15 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/n9PhDhXPYfQN5aq7II5QHQ  
-> 状态：自动搬运，暂未分类  
-> 图片数量：13  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：0 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
 
 “Queen's School of Computing 成立于1969年，经过几十年的发展已成为了该领域的领先机构之一，尤其是在软件设计、工程以及生物医学计算领域。
 
 学院积极从事广泛主题的研究，并拥有杰出的研究记录。研究领域包括：信息系统，人机学习，软件工程，算法设计与分析，计算语言学，理论计算机科学，计算几何与图论，生物医学计算，感知与机器人技术，人工智能，并行系统和编程语言以及系统。”
 
 -- 源于 School of Computing 官网
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
 
 ***背景简介***
 
@@ -115,12 +80,6 @@ CISC 101（选修）
 
 Elements of Computing Science
 
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
-
 如果你之前没有编程基础，那么建议最好从这门课开始上起。这门课使用Python语言，从最基本的算法、变量等基础知识带你打开编程的大门。
 
 课程整体安排其实不算很难，但对于第一次接触编程的小白来说，有时候还是会觉得有点难以应付（尤其是当你的教授只是把online教材上的内容写在ppt上并且读一遍的时候...)。但只要跟上学习进度并确保掌握所学习的内容，是没有什么问题的！
@@ -138,12 +97,6 @@ Elements of Computing Science
 CISC 121（必修）
 
 Introduction to Computing Science I
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
 
 大一的必修课之一，这门课会快速介绍Python这门语言（算是对CISC101内容的一个复习，但节奏会快很多），然后主要针对基础的算法和数据结构进行学习。
 
@@ -163,12 +116,6 @@ CISC 124（必修）
 
 Introduction to Computing Science II
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
 大一的必修课之二，也是很多大二大三课程的prerequisite，这门课你将学习Java这门语言。"主要内容是面向对象编程，其中会涉及到接口（interface）、封装（encapsulation）、继承（inheritance）、抽象类（abstract class）、异常处理（exception handling）等在面向对象编程中常见的元素，都是在未来会常常用到的理论知识"。
 
 如果大一没来得及修这门课，可以放在暑假上，这样大二开始就可以继续上别的课啦！
@@ -178,12 +125,6 @@ Introduction to Computing Science II
 CISC 102
 
 Discrete Mathematics for Computing I
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
 
 注意：COCA方向，数学相关课程只需要CISC102和MATH110二选一即可
 
@@ -205,12 +146,6 @@ MATH 110/111/112（必修）
 
 Linear Algebra
 
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
-
 大一的必修课之三，学CS，数学是逃不掉的，线代更是必不可少的！其中112是学期制课程，其余110和111则是年课。难度上来说，111比110简单些，因此若是以后方向选择向往COMA的同学，建议最好选择MATH110更利于日后的学习。
 
 111这门课一定程度上要看教授的出题风格（上下学期教授不一样），但基本来说只要认真完成平时作业并且充分理解课上的例题，问题不大！（据说111的教授Petter是教线代教的最好的，这个教授真的讲得很细致，课上会给你充分思考和理解的时间，所以一节课可能就讲两道例题...)。
@@ -228,12 +163,6 @@ Linear Algebra
 MATH 120/121/123/124（必修）
 
 Calculus
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
 
 注意：COCA方向，这门课程为选修
 
@@ -261,12 +190,6 @@ Calculus
 
 总体来说，computing专业大一的必修课不算多，有多余的时间来选择自己想上的选修课程。大二大三的课程可能会根据不同专业方向略有差别，但该有的必修还是一个都不会少。希望这篇推文能对大家有所帮助，期待一起来感受编程的魅力！
 
-【IMAGE-011 START】
-
-![image-011](./images/image-011.jpg)
-
-【IMAGE-011 END】
-
 /\* Welcome to join us！\*/
 
 Class of 11111101000
@@ -278,15 +201,3 @@ Class of 11111101000
 编辑 / 容易
 
 审核 / Chris TT
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.jpg)
-
-【IMAGE-013 END】

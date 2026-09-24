@@ -2,26 +2,9 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/2fP7MtPi_CzIXu46HqO1EA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：15  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：0 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
 
 一转眼学期已经过半， 想必有很多同学已经被布置或者已经将要提交他们的第一篇论文作业。
 
@@ -45,12 +28,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 **1.论文要素**
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
 什么决定一篇好论文：
 
 **大学本科的论文一般包含以下要素**（顺序不决定其重要性）
@@ -64,12 +41,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 一般对论文的评分也是根据以上要素！同时强烈推荐同学们在写之前通过仔细阅读教授提供的rubric来了解更详细的评分要点！
 
 **2.论文结构**
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
 
 一篇好的论文要有一个清晰 / 有逻辑性的结构，才能更直接明了地传达你的观点给读者。熊猫酱就拿一个传统的5段式论文给大家举个例子：
 
@@ -91,12 +62,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 **3. Thesis Statement**
 
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
 论题是一篇论文的核心所以它有多重要不必多说，可以说整篇论文是围绕论题展开的。
 
 论题主要是陈述你自己的观点，这样才能用论点加以论证 （arguable）。**切记不是陈述事实（fact ）！**
@@ -106,12 +71,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 论题可以根据论文的进展改变，所以不用担心起初的论题可能不成立。但是一开始就拥有一个清晰有力（strong）的论题会为接下来的工作省很多力，所以建议大家在建立论点前先做好充分的研究。
 
 **4.学术研究和取材**
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
 
 充分的学术研究对成就一篇好的论文也至关重要，研究应该从建立论题之前就开始。
 
@@ -149,12 +108,6 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 **5. Citation & Reference**
 
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
-
 当我们做足了研究，找到了很好的论据之后，应该如何把它们放到论文里并cite呢？
 
 我们有两种方式：
@@ -171,7 +124,7 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 **APA（在心理学和教育学最常用）**
 
-**Chic****ago （在商学，经济学和历史学里最常用）**
+**Chicago （在商学，经济学和历史学里最常用）**
 
 给同学们推荐一个网站  https://owl.purdue.edu，上面可以找到不同citation以及对应的具体格式，他对不同citation的应用也解释得很全面。另外，还有一个比较常用的查重复率的网站 https://www.turnitin.com/。多加利用这两个两个网站，就再也不用担心plagiarism了！
 
@@ -184,12 +137,6 @@ Go to References > Insert Citation, and choose the source you are citing.
 To add details, like page numbers if you're citing a book, select Citation Options, and then Edit Citation.
 
 **6. Queen's 的学术支持**
-
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
 
 最后，要想拿高分，在提交前找教授或者ta多改几遍也十分有效，因为不同人有不同的评分标准这样做可以让你的论文更符合评分人的胃口。
 
@@ -211,12 +158,6 @@ http://sass.queensu.ca/programs/appointments/。
 
 祝大家赶due顺利！
 
-【IMAGE-008 START】
-
-![image-008](./images/image-008.gif)
-
-【IMAGE-008 END】
-
 文字 / Lucas
 
 排版 / Lexi
@@ -224,45 +165,3 @@ http://sass.queensu.ca/programs/appointments/。
 编辑 / Lucas TT
 
 校对 / Kedi Bill
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.jpg)
-
-【IMAGE-009 END】
-
-【IMAGE-010 START】
-
-![image-010](./images/image-010.jpg)
-
-【IMAGE-010 END】
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.jpg)
-
-【IMAGE-011 END】
-
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.png)
-
-【IMAGE-014 END】
-
-【IMAGE-015 START】
-
-![image-015](./images/image-015.jpg)
-
-【IMAGE-015 END】

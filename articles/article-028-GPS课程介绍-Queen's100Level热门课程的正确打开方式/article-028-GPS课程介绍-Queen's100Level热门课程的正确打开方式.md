@@ -2,18 +2,7 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/m0v-JmEExUkC_a4skoepHw  
-> 状态：自动搬运，暂未分类  
-> 图片数量：19  
-> OCR 图片文字数量：0
-
----
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
+> 排版：已整理；正文图片：0 张
 
 ---
 
@@ -31,45 +20,15 @@ OCR 文字只是辅助，不代表一定需要保留到最终正文。
 
 （p.s. : 想获知相关专业的内容，文末有贴心传送门哦）
 
-【IMAGE-001 START】
-
-![image-001](./images/image-001.png)
-
-【IMAGE-001 END】
-
-【IMAGE-002 START】
-
-![image-002](./images/image-002.png)
-
-【IMAGE-002 END】
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.png)
-
-【IMAGE-003 END】
-
-【IMAGE-004 START】
-
-![image-004](./images/image-004.png)
-
-【IMAGE-004 END】
-
 **MATH 12x**系列
 
 Full-year Courses & 6.0 Credits
 
 MATH12系列的课学习的都是**微积分相关基础**，也是Queen‘s经济专业和几乎所有Sci范畴内专业在大一的必修课。
 
-    具体课号有**126**、**124**、**121**和**120**这四门，但只能选其中一门来学。**课号**按**从大到小**排列来看，内容会变得**越来越丰富****深入**。
+    具体课号有**126**、**124**、**121**和**120**这四门，但只能选其中一门来学。**课号**按**从大到小**排列来看，内容会变得**越来越丰富深入**。
 
     像MATH121这门，你就会学到如何利用常见的微积分知识去解决**各类应用题**，Gottesman和Ableson教授那‘interactive’的课堂氛围，集体参加答题互动是家常便饭，课后可以去**网站上浏览课件**视频。而在MATH120的课堂上，黑板上总是有神秘的数学公式和从未见过的的符号等待大家探索，Mingo教授一丝不苟认真风趣……坚持去听课，很多难点教授讲过之后真的是茅塞顿开，一定会有所收获！
-
-【IMAGE-005 START】
-
-![image-005](./images/image-005.png)
-
-【IMAGE-005 END】
 
 **SOCY 122**
 
@@ -77,15 +36,9 @@ Full-year Course & 6.0 Credits
 
 相信大家看到这个名字的第一反应都是”这是个啥”。其实它全称是耳熟能详的‘**Sociology**’。（学长别卖关子了，名字这么“社会”，难道内容也······）
 
-    这位同学你说的没错！它就是听起来“社会”，实际**对社会现象进行研究**的一个学科。122作为基础课就是——Introduction to Sociology。可以非常直接的了解到**各种主义**，如马克思、恩格斯等，以**社会学概论**根据微观和宏观**分析社会进程**，运用这些理论**剖析加拿大****社会**等等。
+    这位同学你说的没错！它就是听起来“社会”，实际**对社会现象进行研究**的一个学科。122作为基础课就是——Introduction to Sociology。可以非常直接的了解到**各种主义**，如马克思、恩格斯等，以**社会学概论**根据微观和宏观**分析社会进程**，运用这些理论**剖析加拿大社会**等等。
 
     因为是全年制的一门课，它分上下两个学期。每个学期内Tutorials占5%，Small Assignments占10%，Paper占15%，Exam占20%。大部分内容需要**理解并记忆**，对此科目感兴趣且不害怕背书的同学们（懂我意思吧），不要放过了喔。
-
-【IMAGE-006 START】
-
-![image-006](./images/image-006.png)
-
-【IMAGE-006 END】
 
 **PSYC 100**
 
@@ -97,12 +50,6 @@ Full-year Course & 6.0 Credits
 
     这门课不用写那些长篇大论的essay，但每周要接触**大量的阅读**。课本，视频，课堂资料都是重要内容，一定要有耐心。**小组lab**是规定要参加的，对关键点的理解很有帮助。
 
-【IMAGE-007 START】
-
-![image-007](./images/image-007.png)
-
-【IMAGE-007 END】
-
 **ENGL 100**
 
 Full-year Course & 6.0 Credits
@@ -113,12 +60,6 @@ Full-year Course & 6.0 Credits
 
     每周两节Lecture和一节Tutorial，一学期以Tut Participation / Assignment (short essay) / Exam按比例计算总成绩。同学们在盘之前要谨慎考虑，读文学**看书写心得**最最最重要！（敲黑板，快拿小本本记下来）
 
-【IMAGE-008 START】
-
-![image-008](./images/image-008.png)
-
-【IMAGE-008 END】
-
 **FREN 106 / FREN 107**
 
 Half-year Courses (Fall or Winter) & 3.0 Credits
@@ -128,12 +69,6 @@ Half-year Courses (Fall or Winter) & 3.0 Credits
     首先，线上课程对学生数量的限制没其它课大，并且本地学生大多在高中曾接受过法语的学习，来选修这门基础课的人相对不多，**抢课佛系**。其次，网课最棒的地方就在于**自由**，你可以**随意安排时间**学习，再也不用纠结课程时间冲突，也不需要在相隔万里的教学楼之间来回穿梭。再者，这两门课学习**任务较轻**，教授只负责学期规划，通常是TA以线上讨论的方式帮大家扫盲。
 
     **考试**统统**online**，作业只有每学期一个随机分组的**Group Presentation**外加每周一两小时的**线上教程**，而这些的**DDL都在学期末**，时间非常宽松。
-
-【IMAGE-009 START】
-
-![image-009](./images/image-009.png)
-
-【IMAGE-009 END】
 
 **ECON 110 / ECON 111 & ECON 112**
 
@@ -149,29 +84,17 @@ Half-year Courses (Fall or Winter) & 3.0 Credits
 
     作为**经济专业**一年级**必修**课， 你可以根据自身需求选择每周固定三次Lecture，节奏相对舒适，每次只有一小时的ECON 110；或者选择每周只有一次Lecture，每次三小时，对自己排课更加灵活的ECON 111 + ECON 112.
 
-【IMAGE-010 START】
-
-![image-010](./images/image-010.png)
-
-【IMAGE-010 END】
-
 **GEOL 102**
 
 Half-year Course (Fall or Winter) & 3.0 Credits
 
 Geology 102是地质学系中的一门基础兴趣课。主题非常具有逼格也足够吸引人，名曰——**宝石鉴赏。**
 
-    对矿石感到好奇，渴望看到五颜六色的宝石或者对blingbling的东东有莫名执念的同学们，请吃下我这份安利！和蔼的教授会带着你从不同类型**宝石的历史**出发，讲解每一块宝石珍贵耀眼**背后的故事**，并且教你**逐一****辨认**。
+    对矿石感到好奇，渴望看到五颜六色的宝石或者对blingbling的东东有莫名执念的同学们，请吃下我这份安利！和蔼的教授会带着你从不同类型**宝石的历史**出发，讲解每一块宝石珍贵耀眼**背后的故事**，并且教你**逐一辨认**。
 
     每周的**Tutorial**（实际上是个Lab）建议你们去参加，近距离**接触宝石**加以**研究**的机会就摆在你面前哟～平时没有任何测验，每节课的讲义都会放在网站上方便浏览和记录。Exam考一些讲过的知识点，注意细节便可过关。
 
     综上，GEOL 102是一门看起来有点梦幻，实则‘可玩性’很高的课。
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.png)
-
-【IMAGE-011 END】
 
 **CISC 101 / CISC 110**
 
@@ -185,12 +108,6 @@ Half-year Courses (Fall or Winter) & 3.0 Credits
 
     同样是入门课程的**CISC110**所用也是python语言，对比101则更加适合对**图像绘制**、**图像处理**有兴趣的小伙伴。
 
-【IMAGE-012 START】
-
-![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
-
 **CISC 102**
 
 Half-year Course (Fall or Winter) & 3.0 Credits
@@ -200,12 +117,6 @@ Half-year Course (Fall or Winter) & 3.0 Credits
     主要学习**计算机**需要的与**数学相关**的知识，包括**集合**、**数学归纳法**、**排列组合**、**矩阵**等内容。大佬们听到这门课都会轻飘飘的总结到：高中数学。的确，他没有高等数学的内容，平常课业轻松，因此也荣登queens“水课”排行榜之列。
 
     这门课fall和winter都有安排，以**三个Quiz**和**Final**计分，没有Midterm和其他Assignment的困扰。对于数学好的同学们是一节提升GPA的好课，但如果你没什么数学天赋，那需要花很多精力学习。
-
-【IMAGE-013 START】
-
-![image-013](./images/image-013.png)
-
-【IMAGE-013 END】
 
 **DRAM 100**
 
@@ -220,12 +131,6 @@ Full-year Course & 6.0 Credits
 以上就是本期希望和大家分享的内容，如果还想了解100level哪些课程请在评论区留言哦~ 更多问题欢迎留言至微信公众号或者直接添加小助手微信获取更详细的情报！
 
 （感谢TT和容易提供的帮助~）
-
-【IMAGE-014 START】
-
-![image-014](./images/image-014.gif)
-
-【IMAGE-014 END】
 
 各专业详情，请戳下方传送阵👇（持续更新中~）
 
@@ -243,12 +148,6 @@ Full-year Course & 6.0 Credits
 
 · [GPS课程介绍 | 选择PSYC100以前你需要知道的一些事](https://mp.weixin.qq.com/s?__biz=MzA3OTc3NDUxNg==&mid=2651192026&idx=1&sn=226bcb32e337991b0198ab889406962f&scene=21#wechat_redirect)
 
-【IMAGE-015 START】
-
-![image-015](./images/image-015.png)
-
-【IMAGE-015 END】
-
 文字 / Jacky
 
 排版 / Jacky
@@ -257,28 +156,4 @@ Full-year Course & 6.0 Credits
 
 校对 / Kedi Bill
 
-【IMAGE-016 START】
-
-![image-016](./images/image-016.jpg)
-
-【IMAGE-016 END】
-
-【IMAGE-017 START】
-
-![image-017](./images/image-017.jpg)
-
-【IMAGE-017 END】
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.jpg)
-
-【IMAGE-018 END】
-
 ❤️ ❤️ ❤️
-
-【IMAGE-019 START】
-
-![image-019](./images/image-019.jpg)
-
-【IMAGE-019 END】

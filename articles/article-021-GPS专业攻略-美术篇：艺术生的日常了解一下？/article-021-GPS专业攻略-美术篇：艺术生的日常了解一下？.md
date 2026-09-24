@@ -2,26 +2,9 @@
 
 > 来源：微信公众号  
 > 原链接：https://mp.weixin.qq.com/s/qhCLcPyHc70-QMHEaINYpA  
-> 状态：自动搬运，暂未分类  
-> 图片数量：23  
-> OCR 图片文字数量：0
+> 排版：已整理；正文图片：8 张
 
 ---
-
-## 人工整理说明
-
-本文件保留了公众号文章中的所有图片，没有自动删除装饰图。  
-每张图片都用 `IMAGE-编号` 标记，方便后期人工检索、删除或补充说明。  
-如果图片下方出现 OCR 文字，说明脚本尝试识别了图片中的文字，但需要人工检查准确性。  
-OCR 文字只是辅助，不代表一定需要保留到最终正文。
-
----
-
-【IMAGE-001 START】
-
-![image-001](./images/image-001.jpg)
-
-【IMAGE-001 END】
 
 画
 
@@ -33,21 +16,9 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 美术系是皇后大学里人数极少的专业之一。每年只招大约30个新生，以至于大一到大四可能一共才120个学生。这其中大部分都是漂亮可爱有才的小姐姐们，男生们少之又少，全系加上男老师可能还没有十个而且十男九gay真的不是说说的而已。
 
-【IMAGE-002 START】
-
-![image-002](./images/image-002.jpg)
-
-【IMAGE-002 END】
-
 你以为我们的日常就是据锯木头，画画画画，裁裁纸板而已吗？
 
 是的没错就是这样！
-
-【IMAGE-003 START】
-
-![image-003](./images/image-003.jpg)
-
-【IMAGE-003 END】
 
 好了说正经的，接下来给大家介绍下大一的必修课。
 
@@ -67,11 +38,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 千万别翘课！老师每堂课都会点名的！也就30来个人谁不来一目了然OK？翘课不单止会扣分，严重的话会被踢出专业的。
 
-【IMAGE-004 START】
-
 ![image-004](./images/image-004.jpg)
-
-【IMAGE-004 END】
 
 我们美术生四年来的上课地点在Queens最好看的拍照胜地——Ontario Hall！
 
@@ -83,19 +50,9 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 是的你没想错！就是用《电锯惊魂》里的同款工具锯木条！
 
-【IMAGE-005 START】
-
-![image-005](./images/image-005.gif)
-
-【IMAGE-005 END】
-
 这节课就是为了让大家学会如何使用锯木头的工具。最后会要求大家做一个大画框，为下学期的final painting做准备。
 
-【IMAGE-006 START】
-
 ![image-006](./images/image-006.jpg)
-
-【IMAGE-006 END】
 
 第二部分是素描，从周二到周四学半学期。先是练习画静物和裸模（放心，不会有身材好的小哥哥小姐姐的，全都是大妈大叔）。还要要完成5幅左右不同尺寸题材的画和一幅大画。这些画老师会定个大概的题材，比如说自画像/静物。至于用什么画材和具体内容就随你喜欢啦。
 
@@ -105,19 +62,9 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 前半学期练习画速写，后半学期画油画。最后也是要交4幅由特定条件和画法的小油画，和一幅大油画。这时候上学期做的画框就派上用场了！自己订上画布，刷上石膏底料（gesso）才可以开始画。学会这些技能后麻麻再也不用担心我买不到画板了呢。
 
-【IMAGE-007 START】
-
 ![image-007](./images/image-007.jpg)
 
-【IMAGE-007 END】
-
 平时没有什么作业，但是课堂上画不完的画还是要在课后完成的，所以一定要有due前睡画室的觉悟啊。
-
-【IMAGE-008 START】
-
-![image-008](./images/image-008.jpg)
-
-【IMAGE-008 END】
 
 每天上美术课都是干干净净地去，然后带着满身木屑/炭粉/颜料出来。
 
@@ -125,11 +72,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 别想了，到最后都会变得一团糟的。大家还是准备多点耐脏的衣服吧QAQ。当然你也可以把弄脏的裤子画成全球唯一一件的春季高定秀款哦。
 
-【IMAGE-009 START】
-
 ![image-009](./images/image-009.jpg)
-
-【IMAGE-009 END】
 
 虽然说美术课课时多又长，但是其实每天画画都是一个享受。老师并不会严格要求你的画法画技，而是给更多的空间我们让自由发展出自己的风格。想要提高的话，除了上课学习，也是要下课自主练习的。
 
@@ -139,11 +82,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 **ARTH 120/6.0**
 
-【IMAGE-010 START】
-
 ![image-010](./images/image-010.jpg)
-
-【IMAGE-010 END】
 
 美术史是全年课程，从史前文明山洞壁画学到现代艺术，比较笼统（并不）地学习不同时期的著名画作。
 
@@ -156,12 +95,6 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 平时有时间就背背画啊！
 
 临时抱佛脚真的是在作死啊！
-
-【IMAGE-011 START】
-
-![image-011](./images/image-011.jpg)
-
-【IMAGE-011 END】
 
 如何申请
 
@@ -177,11 +110,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 *https://queensbfavisualart.slideroom.com/#/login*
 
-【IMAGE-012 START】
-
 ![image-012](./images/image-012.png)
-
-【IMAGE-012 END】
 
 点进网址之后，先注册一个账号。
 
@@ -197,11 +126,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 （Tell us about your hobbies and other extra curricular activities.）
 
-【IMAGE-013 START】
-
 ![image-013](./images/image-013.jpg)
-
-【IMAGE-013 END】
 
 再上传20-30幅作品。
 
@@ -213,11 +138,7 @@ Fine Art(visual art) program 是个纯美术的专业，包含绘画(drawing and
 
 tips：详细资料这里可以说多点关于你的创作想法或者是特殊的创作方式。
 
-【IMAGE-014 START】
-
 ![image-014](./images/image-014.jpg)
-
-【IMAGE-014 END】
 
 **大家记得按保存哦！**
 
@@ -229,12 +150,6 @@ Queens的美术系看重的并不是高超画画技法。他们最主要是希�
 
 谢谢大家看到最后！
 
-【IMAGE-015 START】
-
-![image-015](./images/image-015.jpg)
-
-【IMAGE-015 END】
-
 文字 / 彦之
 
 排版 / 彦之
@@ -245,36 +160,6 @@ Queens的美术系看重的并不是高超画画技法。他们最主要是希�
 
 全年赞助 / Tian Bao Travel
 
-【IMAGE-016 START】
-
-![image-016](./images/image-016.jpg)
-
-【IMAGE-016 END】
-
-【IMAGE-017 START】
-
-![image-017](./images/image-017.jpg)
-
-【IMAGE-017 END】
-
-【IMAGE-018 START】
-
-![image-018](./images/image-018.png)
-
-【IMAGE-018 END】
-
-【IMAGE-019 START】
-
-![image-019](./images/image-019.jpg)
-
-【IMAGE-019 END】
-
-【IMAGE-020 START】
-
-![image-020](./images/image-020.png)
-
-【IMAGE-020 END】
-
 分享加拿大女王大学学长学姐的经历
 
 有趣好玩的活动
@@ -283,24 +168,6 @@ Queens的美术系看重的并不是高超画画技法。他们最主要是希�
 
 相见恨晚｜相见不晚
 
-【IMAGE-021 START】
-
-![image-021](./images/image-021.png)
-
-【IMAGE-021 END】
-
-【IMAGE-022 START】
-
-![image-022](./images/image-022.jpg "http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20160304-1457040026312020364.jpg")
-
-【IMAGE-022 END】
-
 微信ID：QueensGPS
-
-【IMAGE-023 START】
-
-![image-023](./images/image-023.png "http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20160304-1457040016063087342.png")
-
-【IMAGE-023 END】
 
 长按熊猫爪子关注
